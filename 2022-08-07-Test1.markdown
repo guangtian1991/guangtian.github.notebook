@@ -1,0 +1,6 @@
+Test 1
+
+---
+layout: post
+title: Blogging Test1
+---
